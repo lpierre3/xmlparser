@@ -23,3 +23,6 @@ Replace the url parameter with any test endpoint
 2. Enter any of the test enpoint urls in the text field e.g. https://appjobs-general.s3.eu-west-1.amazonaws.com/test-xml-feeds/feed_6.xml
 3. Press the submit button
 
+
+# Releases
+v1.0 - 17/02/2022
