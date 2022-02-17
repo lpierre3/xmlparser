@@ -1,0 +1,11 @@
+# Content folders, not managed in git.
+debug/*
+appcontent/*
+nbproject/*
+old/*
+inc/composer*
+inc/env/*
+.htaccess*
+.idea/*
+.DS_Store
+
